@@ -7,5 +7,5 @@ import { WeatherService } from './weather.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  constructor(weatherservice:WeatherService) {}
+  constructor(/*weatherservice:WeatherService*/) {}
 }
